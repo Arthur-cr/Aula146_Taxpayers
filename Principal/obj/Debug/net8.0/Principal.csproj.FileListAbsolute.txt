@@ -1,0 +1,14 @@
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\bin\Debug\net8.0\Principal.exe
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\bin\Debug\net8.0\Principal.deps.json
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\bin\Debug\net8.0\Principal.runtimeconfig.json
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\bin\Debug\net8.0\Principal.dll
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\bin\Debug\net8.0\Principal.pdb
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\Principal.AssemblyInfoInputs.cache
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\Principal.AssemblyInfo.cs
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\Principal.csproj.CoreCompileInputs.cache
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\Principal.dll
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\refint\Principal.dll
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\Principal.pdb
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\Principal.genruntimeconfig.cache
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\ref\Principal.dll

@@ -12,3 +12,4 @@ C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (Ex
 C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\Principal.pdb
 C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\Principal.genruntimeconfig.cache
 C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\ref\Principal.dll
+C:\Users\Família\Documents\- Arthur -\AulasDoCurso\146.aula - Contribuintes (ExFixação)\Principal\obj\Debug\net8.0\Principal.sourcelink.json

@@ -8,9 +8,9 @@ namespace Principal.Entities
 
         public TaxPayer() {}
 
-        protected TaxPayer(string naame, double anualIncome)
+        protected TaxPayer(string name, double anualIncome)
         {
-            Name = naame;
+            Name = name;
             AnualIncome = anualIncome;
         }
         public abstract double Tax();
